@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun.</h1>
 <h3 align="center">Electrical Engineer turned AI enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 - 🌱 I’m currently learning **about Gen AI, MLOps etc**
 
 - 📫 How to reach me **arun-lal@outlook.com**
