@@ -1,4 +1,4 @@
-![MasterHead](/mll.PNG)
+![MasterHead](/banner.png)
 <h1 align="center">Hi 👋, I'm Arun.</h1>
 <h3 align="center">Electrical Engineer turned AI enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBiYmJnZHFqd200Z2I2cm9mZ2QzY25nbHg3Mnd6Z2ljeDQ5dnhyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
